@@ -3,7 +3,7 @@
   "description": "A client for the mad mimi api",
   "version": "0.1.8",
   "homepage": "https://madmimi.com/developer",
-  "repository": "git://github.com/nvphong/madmimi-node.git",
+  "repository": "git://github.com/nvphong/Madmimi-node.git",
   "author": [
     "Garren Smith <garren.smith@gmail.com> (www.garrensmith.com)",
     "Steve Cheung <https://github.com/oldcookie>",
