@@ -1,13 +1,14 @@
 {
-  "name": "madmimi-node",
+  "name": "madmimi-node-atadi",
   "description": "A client for the mad mimi api",
   "version": "0.1.8",
   "homepage": "https://madmimi.com/developer",
-  "repository": "git://github.com/garrensmith/Madmimi-node.git",
+  "repository": "git://github.com/nvphong/madmimi-node.git",
   "author": [
     "Garren Smith <garren.smith@gmail.com> (www.garrensmith.com)",
     "Steve Cheung <https://github.com/oldcookie>",
-    "Raman Shalupau <https://github.com/ksaitor>"
+    "Raman Shalupau <https://github.com/ksaitor>",
+    "Phong Nguyen <https://github.com/nvphong"
   ],
   "main": "lib/index.js",
   "directories": {
